@@ -1,0 +1,51 @@
+<xml version="1.0">
+<dashboard>
+	<widget field="SendableChooser[0]" type="String Chooser" class="edu.wpi.first.smartdashboard.gui.elements.Chooser">
+		<location x="189" y="137"/>
+	</widget>
+	<widget field="Mod 3 Cancoder" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="260"/>
+	</widget>
+	<widget field="Mod 1 Cancoder" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="240"/>
+	</widget>
+	<widget field="Mod 3 Velocity" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="220"/>
+	</widget>
+	<widget field="Mod 1 Velocity" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="200"/>
+	</widget>
+	<widget field="Tilt Encoder" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="180"/>
+	</widget>
+	<widget field="Mod 0 Integrated" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="160"/>
+	</widget>
+	<widget field="Mod 2 Integrated" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="140"/>
+	</widget>
+	<widget field="Mod 2 Cancoder" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="120"/>
+	</widget>
+	<widget field="Mod 0 Cancoder" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="100"/>
+	</widget>
+	<widget field="Elevator Encoder" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="80"/>
+	</widget>
+	<widget field="Mod 2 Velocity" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="60"/>
+	</widget>
+	<widget field="Mod 0 Velocity" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="40"/>
+	</widget>
+	<widget field="Mod 3 Integrated" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="20"/>
+	</widget>
+	<widget field="Mod 1 Integrated" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="0"/>
+	</widget>
+</dashboard>
+<live-window>
+</live-window>
+</xml>
