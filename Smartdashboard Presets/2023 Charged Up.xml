@@ -1,5 +1,11 @@
 <xml version="1.0">
 <dashboard>
+	<widget field="Test Auto 2024" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="319" y="174"/>
+	</widget>
+	<widget field="Auto Mode" type="String Chooser" class="edu.wpi.first.smartdashboard.gui.elements.Chooser">
+		<location x="318" y="219"/>
+	</widget>
 	<widget field="SendableChooser[0]" type="String Chooser" class="edu.wpi.first.smartdashboard.gui.elements.Chooser">
 		<location x="189" y="137"/>
 	</widget>
